@@ -1,0 +1,8 @@
+exercises/.zig-cache/
+exercises/zig-out/
+exercises/answers/
+exercises/patches/healed/
+exercises/output/
+
+# Leave this in here for older zig versions
+exercises/zig-cache/
